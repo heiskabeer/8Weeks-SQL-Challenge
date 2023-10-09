@@ -37,4 +37,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Solution
 
-[Click Here](./queries.ipynb)
+[Click Here To View The Solution](./queries.ipynb) **PS: I made use of SQLite db and dialect for this module.**
