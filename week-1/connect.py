@@ -1,6 +1,6 @@
 import sqlite3
 
-
+# create, connect, and load data to the db
 def create_connection():
 
     with open('schema.sql', 'r') as f:
