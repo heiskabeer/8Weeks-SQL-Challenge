@@ -26,3 +26,4 @@ This case study has LOTS of questions - they are broken up by area of focus incl
 
 - [Pizza metric Solution](./pizza_metrics.ipynb)
 - [Runner and Customer Experience Solution](./runner_customer.ipynb)
+- [Ingredient Optimization](./ingredient_optimize.ipynb)
