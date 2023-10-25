@@ -4,9 +4,7 @@ This repository contains the solutions to the case studies in [8WeekSQLChallenge
 
 Each case-study folder contains the following files
 
-- A local database file
 - SQL file to create the schema, tables and loading data
-- A python file to create, connect and load the sql file into the db
 - A readme file explaining the problem statement, ERD, and case study questions
 - A jupyter notebook which contains SQL queries answering the respective challenge questions
 
